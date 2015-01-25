@@ -1,0 +1,54 @@
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\obj\x86\Debug\IK.csprojResolveAssemblyReference.cache
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\IK.exe
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\IK.pdb
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\obj\x86\Debug\IK.exe
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\obj\x86\Debug\IK.pdb
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\Content\arm.png
+c:\users\ninja\documents\visual studio 2013\Projects\IK\IK\bin\Windows\Debug\Content\effector.png
+C:\Users\Ninja\Desktop\IK\IK\IK\obj\x86\Debug\IK.exe
+C:\Users\Ninja\Desktop\IK\IK\IK\obj\x86\Debug\IK.pdb
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\Content\arm.png
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\Content\effector.png
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\IK.exe
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\IK.pdb
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ninja\Desktop\IK\IK\IK\obj\x86\Debug\IK.csprojResolveAssemblyReference.cache

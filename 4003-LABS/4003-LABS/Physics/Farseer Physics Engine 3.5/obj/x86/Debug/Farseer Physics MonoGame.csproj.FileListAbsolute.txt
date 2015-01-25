@@ -1,0 +1,35 @@
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.dll
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.pdb
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\OpenTK.dll
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\obj\x86\Debug\Farseer Physics MonoGame.csprojResolveAssemblyReference.cache
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics MonoGame.dll
+C:\dev\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.dll
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\obj\x86\Debug\Farseer Physics MonoGame.csprojResolveAssemblyReference.cache
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics MonoGame.dll
+C:\Users\Ninja\Downloads\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\Ninja\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.dll
+C:\Users\Ninja\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\Ninja\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Ninja\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Ninja\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Ninja\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Ninja\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics MonoGame.dll
+C:\Users\Ninja\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.dll
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\obj\x86\Debug\Farseer Physics MonoGame.csprojResolveAssemblyReference.cache
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics MonoGame.dll
+C:\Users\Ninja\Desktop\kenneth_lamb\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics MonoGame.pdb

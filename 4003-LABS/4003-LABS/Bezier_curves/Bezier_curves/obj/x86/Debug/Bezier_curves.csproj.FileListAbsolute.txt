@@ -1,0 +1,31 @@
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\Bezier_curves.exe
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\Bezier_curves.pdb
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\obj\x86\Debug\Bezier_curves.exe
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\obj\x86\Debug\Bezier_curves.pdb
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\Content\control.xnb
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\Content\dot.xnb
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bezier_curves\Bezier_curves\bin\Windows\Debug\Content\myFont.xnb
+C:\Users\Ninja\documents\visual studio 2013\Projects\Bezier_curves\Bezier_curves\obj\x86\Debug\Bezier_curves.csprojResolveAssemblyReference.cache
+C:\Users\Ninja\Desktop\Bezier_curves\Bezier_curves\obj\x86\Debug\Bezier_curves.exe
+C:\Users\Ninja\Desktop\Bezier_curves\Bezier_curves\obj\x86\Debug\Bezier_curves.pdb
+C:\Users\Ninja\Desktop\Bezier_curves\Bezier_curves\obj\x86\Debug\Bezier_curves.csprojResolveAssemblyReference.cache
